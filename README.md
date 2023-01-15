@@ -14,8 +14,11 @@ Solução de questões sobre algoritmos gananciosos no site leetcode.
 
 ## Screenshots
  - Solução da questão [1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) em Python. <br>
- ![image](assets/Solucao1061.png)
- ![image](assets/SolucaoAceita1061.png)
+ ![image](Imagens/Solucao1061.png)
+ ![image](Imagens/SolucaoAceita1061.png)
+
+ - Solução da questão [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) em Python. <br>
+ ![image](Imagens/SolucaoAceita11.png)
 
 ## Instalação 
 Todos códigos foram rodados no console do site leetcode.
