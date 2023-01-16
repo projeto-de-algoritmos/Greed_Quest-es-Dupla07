@@ -31,6 +31,9 @@ Solução de questões sobre algoritmos gananciosos no site leetcode.
 ## Instalação 
 Todos códigos foram rodados no console do site leetcode.
 
+## Apresentação
+https://user-images.githubusercontent.com/40813329/212776704-51bc5713-cd2e-42e8-a0ef-3655d5095d23.mp4
+
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
