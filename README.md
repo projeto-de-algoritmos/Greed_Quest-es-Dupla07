@@ -20,6 +20,10 @@ Solução de questões sobre algoritmos gananciosos no site leetcode.
  - Solução da questão [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) em Python. <br>
  ![image](Imagens/SolucaoAceita11.png)
 
+- Solução da questão [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
+![image](Imagens/Greed807.png)
+ ![image](Imagens/Greed807part2.png)
+
 ## Instalação 
 Todos códigos foram rodados no console do site leetcode.
 
