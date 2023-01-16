@@ -22,7 +22,11 @@ Solução de questões sobre algoritmos gananciosos no site leetcode.
 
 - Solução da questão [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 ![image](Imagens/Greed807.png)
- ![image](Imagens/Greed807part2.png)
+![image](Imagens/Greed807part2.png)
+
+- Solução da questão [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+![image](Imagens/Solucao921.png)
+![image](Imagens/Solucao921part2.png)
 
 ## Instalação 
 Todos códigos foram rodados no console do site leetcode.
